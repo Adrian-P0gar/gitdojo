@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 def introduce ():
-    print("Hello, I'm Gittie!")
+    print("Hello!")
 
 def joke (punch_line):
     print ("Why are the skyes blue?")
