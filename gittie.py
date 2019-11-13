@@ -17,4 +17,4 @@ print(add(1, 2))
 
 
 def shout():
-    print("!!!")
+    print("shout")
