@@ -18,3 +18,7 @@ print(add(1, 2))
 
 def shout():
     print("shout")
+
+
+def xxx():
+    print("xxx")
