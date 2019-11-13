@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 << << << < HEAD
 
 
@@ -13,6 +14,11 @@ def joke(punch_line):
 
 == == == =
 
+=======
+<<<<<<< HEAD
+def introduce ():
+    print("Hello!")
+>>>>>>> bf58ac8b45041a13f34b6dd7e6dad76be04233b7
 
 def introduce():
     print("Hello, I'm Gittie!")
